@@ -1,10 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-S
-#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
 D
@@ -43,7 +39,3 @@ F
 18-binary_tree_uncle.c,3/6/367ee88b92b1185e30dd423dabc19a6c99396db4
 E
 11-binary_tree_size.c,9/c/9c6f906cb726061a11accb892243efbeb3690649
->
-binary_trees.h,a/a/aac1dde57704c18ee7840fa321916db706bd1033
-K
-16-binary_tree_is_perfect.c,a/6/a66f88d29be65f1eea1623b001b31dd177aa55c1
