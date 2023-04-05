@@ -55,6 +55,7 @@ int get_max(const binary_tree_t *tree, int val);
 int get_min(const binary_tree_t *tree, int val);
 int binary_tree_is_bst(const binary_tree_t *tree);
 bst_t *bst_insert(bst_t **tree, int value);
+bst_t *array_to_bst(int *array, size_t size);
 
 
 #endif
